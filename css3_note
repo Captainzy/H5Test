@@ -1,0 +1,7 @@
+CSS3重要的属性：
+边框：border-radius、box-shadow、border-image
+渐变：线性渐变、径向渐变
+文本效果：text-shadow、text-overflow、word-wrap、word-break
+字体：@font-face
+过渡：transition
+动画：animation
