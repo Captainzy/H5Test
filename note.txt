@@ -1,0 +1,2 @@
+H5中新增的标签可能常用的有：<canvas>、<audio>、<video>、<source>、<embed>、<track>、<datalist>、<output>、<dialog>、<footer>、
+<meter>、<nav>、<progress>
